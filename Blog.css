@@ -1,0 +1,81 @@
+body, html {
+    height: 100%;
+}
+@font-face {
+   font-family: myFirstFont;
+   src: url(I_AM_SHERLOCKED.ttf);
+}
+
+#hov_skills:hover{
+  text-decoration: underline;
+}
+
+span:hover{
+  color: solid black;
+}
+
+.font_sherlock {
+   font-family: myFirstFont;
+ }
+
+ @font-face {
+    font-family: mySecondFont;
+    src: url(angrybirds-regular.ttf);
+ }
+
+ .font_angrybird {
+    font-family: mySecondFont;
+  }
+
+img{
+  opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+img:hover{
+  opacity: 1;
+}
+
+.parallax1 {
+    /* The image used */
+     background-image: url('See_through_glasses.jpg');
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url('Guy_back.jpg');
+
+    /* Full height */
+    height: 500px;;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    /* The image used */
+    background-image: url('Male.jpg');
+
+    /* Full height */
+    height: 400px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav > li > a:hover{
+  background-color:#FCC;
