@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(225,232,237);
+  background-size: cover;
+  position: relative;
+}
+#navig{
+  height: 95px;
+}
+
+#fb_font{
+  font-size: 25px;
+  color: white
+}
+
+#btn-mar{
+  margin-top: 35px;
+}
+
+#co{
+  color: white;
+}
+
+.pad{
+  margin-top: -5px;
+}
+
+.col-mar{
+  margin-left: 126px;
+}
+
+.col-mar1{
+  margin-left: 400px;
+}
+
+#fog-pass{
+  color: rgb(223,227,238);
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+.img-pra{
+  width: 23%;
+  height: 25%;
+}
+
+.foo{
+  width: 100%
+}
