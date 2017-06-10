@@ -36,13 +36,9 @@ img:hover{
 }
 
 .parallax1 {
-    /* The image used */
      background-image: url('See_through_glasses.jpg');
 
-    /* Full height */
     height: 100%;
-
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -50,13 +46,9 @@ img:hover{
 }
 
 .parallax2 {
-    /* The image used */
     background-image: url('Guy_back.jpg');
-
-    /* Full height */
     height: 500px;;
 
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -64,13 +56,9 @@ img:hover{
 }
 
 .parallax3 {
-    /* The image used */
     background-image: url('Male.jpg');
 
-    /* Full height */
     height: 400px;
-
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
